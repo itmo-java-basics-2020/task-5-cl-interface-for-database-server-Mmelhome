@@ -15,4 +15,5 @@ public interface DatabaseCommandResult {
     enum DatabaseCommandStatus {
         SUCCESS, FAILED
     }
+
 }
